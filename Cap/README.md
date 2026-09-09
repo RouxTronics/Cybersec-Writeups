@@ -7,10 +7,7 @@ categories: Machines
 status: 2-In-Progress
 Retired: true
 vip: false
-os:
-  - Linux
 difficulty: 1-Easy
-image: "![[./hack-the-box/01-machines/cap/attachments/cap.png]]"
 finished: 2025-08-25
 completed: false
 tags:
